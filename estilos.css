@@ -1,0 +1,19 @@
+.container-fluid{
+    background-color: rgb(158, 158, 156);
+}
+.description{
+    color: rgb(3, 0, 0);
+}
+
+#nome{
+    font-size: 20px;
+    color: rgb(8, 0, 0);
+    font-weight: bold;
+
+}
+#descricao{
+    font-size: 15px;
+    color: rgb(3, 0, 0);
+    font-weight:unset
+
+}
